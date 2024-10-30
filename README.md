@@ -39,4 +39,4 @@
 1. **Database & API**: Mengambil data dari database dan mengirim respons JSON dengan status login.
 2. **Service & Guard di Ionic**: Service di Ionic berfungsi sebagai jembatan untuk komunikasi antara API dan komponen Ionic. Guard menjaga aksesibilitas halaman berdasarkan status login.
 3. **Komponen Login & Home**: Masing-masing komponen memanfaatkan `AuthenticationService` untuk login dan logout. Halaman login akan memvalidasi login dan menyimpan data pengguna, sedangkan halaman home akan menampilkan informasi pengguna yang telah login.
-4. 
+   

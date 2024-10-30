@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/0ebd22cf-39c3-4bc9-a16b-f1224e6473fb" alt="Screenshot" width="300"/>
 <img src="https://github.com/user-attachments/assets/6e1ed4cb-6be5-44a9-aff9-7b7469407366" alt="Screenshot" width="300"/>
 
-## Penjelasan Cara Kerja Aplikasi
+## Penjelasan Cara Kerja Login
 
 ### 1. Backend (Database dan PHP API)
 - **Database**: Dibuat tabel `user` pada database `coba-ionic` untuk menyimpan data pengguna. Data disimpan dalam bentuk hash dengan menggunakan MD5 untuk keamanan kata sandi.
